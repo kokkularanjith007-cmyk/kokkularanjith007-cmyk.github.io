@@ -1,11 +1,17 @@
-# Hello! I'm Ranjith
+# Ranjith's DevOps Learning Journey
 
-Welcome to my first DevOps learning journey page!
+Live Portfolio: https://ranjith899098.github.io (working on making it live!)
 
--Location: UK
--Goal: Become a Junior DevOps Engineer in 2026
--Currently learning: GItHub, automation. containers
+## About This Repo
+- Started as complete beginner with zero IT/coding experience.
+- Day 1: Set up GitHub repo + basic README + GitHub Pages.
+- Day 2: Added index.html homepage (copy-paste start → now editing myself).
+- Day 3: Making personal changes + learning how auto-deploy works.
+- Goal: Build 5+ real DevOps projects here to land a junior role in UK 2026.
 
-This page auto-updates when I push changes - that's basic CI/CD
+## What I've Learned So Far
+- GitHub commits trigger automatic CI/CD for Pages (green Actions!).
+- index.html is the main page — better than just README.
+- Small edits + commit = instant live updates.
 
-More coming soon....
+More projects coming: Docker basics, simple CI pipeline, etc.
